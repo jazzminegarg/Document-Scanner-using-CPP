@@ -1,5 +1,7 @@
 
 # Document Scanner
+![image](https://github.com/user-attachments/assets/a9397f9c-ec35-43de-9e81-108e52c4f377)
+
 
 ## Overview
 The **Document Scanner** project uses OpenCV to scan and crop documents from an image. This tool is designed to automatically detect the largest rectangular object in an image, assume it as a document, and then transform and crop the image to provide a clean, top-down view of the document.
